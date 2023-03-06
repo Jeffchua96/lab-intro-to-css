@@ -1,0 +1,36 @@
+body{
+    font-weight: bold;
+    image-resolution: 200px;
+    height:200px;
+    font-family: sans-serif;
+    display: flex;
+}
+img{
+    height: 200px tall;
+    display: block;
+}
+h1{
+    color: purple;
+    font-family: fantasy;
+    font-size: 30px;
+}
+ul{
+    list-style: none;
+    font-weight: bold;
+}
+li{
+    text-align: center;
+    border: 1px solid rgb(128, 0, 128);
+    border-radius: 10px;
+    color:rebeccapurple;
+    background-color: rgb(216, 191, 216);
+    padding-left: 30px;
+}
+h3{
+    text-decoration-line: underline;
+}
+p{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
